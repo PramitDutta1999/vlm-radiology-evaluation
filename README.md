@@ -1,4 +1,4 @@
-# vlm-radiology-evaluation
+# VLM-Radiology-Evaluation
 # From Pixels to Insights: Exploring Vision Language Models in Healthcare
 
 This repository explores the application of Vision-Language Models (VLMs) in the healthcare domain, particularly for medical image understanding. The study evaluates three models — BiomedCLIP, BLIP, and Florence — highlighting their strengths, limitations, and performance in radiology-based tasks.
